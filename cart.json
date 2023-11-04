@@ -1,0 +1,12 @@
+[
+    {
+        "image":"../imgs/lamb1.jpg",
+        "name": "bently",
+        "price": 50000000
+    },
+    {
+        "image":"../imgs/lamb1.jpg",
+        "name": "jane",
+        "price": 600000
+    }
+]
